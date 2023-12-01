@@ -1,0 +1,26 @@
+1) description: DAA11591.1 TPA: Csa1p [Saccharomyces cerevisiae S288C]
+
+2) sequence: MGIQEKTLGIRKERKLVVVPRERNHVRHASQRTRSKNYKNISKKRAQQHAFGFNIAKTLAKIQAFVWGSPADEEEESVVPLSKNSQDCVPLQWQAKFAQLRQQLHSTQKELQFVKEKCHLLQSVLDDANIDQRYLESRRDMKNIERDNLKPTENLPPSPVRAVNPLVTSSPIHMSPLQSRQRPVSSLQPPKGPNFYAKYPKLPQTNILRESPTEDSVPHAE
+
+3) length: 221
+
+4) Number of Positively Charged Amino Acids: 43
+
+5) Molecular Weight (kDa): 25.41
+
+6) Instability Index: 86.87
+
+7) Isoelectric Point: 9.89
+
+8) Cdc14 Docking Sites (PxL) Positions and Sequences:
+  - 200 PKL
+
+9) Cdk1 Phosphorylation Sites (SP/TP):
+  - Position: 69 Sequence: SP
+  - Position: 158 Sequence: SP
+  - Position: 170 Sequence: SP
+  - Position: 175 Sequence: SP
+  - Position: 211 Sequence: SP
+
+10) Optimal Cdk1 phosphorylation sites (SPxK/R or TPxK/R) positions and their sequences:
+  - 158 : SPVR
